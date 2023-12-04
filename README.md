@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
-<h3 align="center">A passionate developer based in Australia, but local to Argentina & Switzerland</h3>
+<h3 align="center">A budding developer based in Australia, and local to Argentina & Switzerland</h3>
 
 - 🌱 I’m currently learning **ReactJS, AWS, C#**
 
