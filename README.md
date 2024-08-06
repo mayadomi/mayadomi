@@ -1,23 +1,18 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
-<h3 align="center">A budding developer based in Australia (& local to Argentina & Switzerland 🌏)</h3>
 
-- 🌱 I’m currently learning **ReactJS, AWS, C#**
+- 🌱 I’m currently learning **C#, Foundry, React**
 
 - 👯 I’m always open to **collaboration**
-
-- 🤝 I’m looking for help with [a custom Strava challenge](https://github.com/mayadomi/strava_sept_challenge)
-
-- 👨‍💻 All of my projects are available at [https://mayadomi.github.io/portfolio/](https://mayadomi.github.io/portfolio/)
 
 - 💬 Ask me about **anything spatial 🌏**
 
 - 📫 How to reach me **maya.dominice@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFqipxYW1I/view](https://www.canva.com/design/DAFqipxYW1I/view)
+- 📄 Some stuff I've done [https://www.canva.com/design/DAFqipxYW1I/view](https://www.canva.com/design/DAFqipxYW1I/view)
 
-- ⚡ Fun fact **I race bicycles**
+- ⚡ Fun fact **I race bicycles** (not very well, but I try 🙃) 
   
-- 😄  Pronouns: she/her
+- 😊 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +32,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></p>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.palantir.com/platforms/foundry/" target="_blank" rel="noreferrer"> <img src="https://www.palantir.com/aws/ptlogo" alt="palantir" height="40" width="auto"/></a></p>
 <p align='left'>Spatial Stacks</p>
 <a href="https://www.esri.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/de/4/46/ESRI_Logo.svg"alt="react" width="100" height="35"/></a>
 <a href="https://www.safe.com/" target="_blank" > <img src="https://www.safe.com/wp-content/uploads/2023/02/fme-logo.svg"alt="react" width="100" height="35"/></a>
