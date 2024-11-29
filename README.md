@@ -19,6 +19,7 @@
 <a href="https://codepen.io/mayadomi" target="blank"><img align="center" src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="mayadomi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayadominice" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="mayadominice" height="30" width="40" /></a>
 <a href="https://instagram.com/mayadomi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="mayadomi" height="30" width="40" /></a>
+<a href="https://www.strava.com/athletes/17422394" target="blank"><img align="center" src="https://d3nn82uaxijpm6.cloudfront.net/icon-strava-chrome-192.png" alt="mayadomi" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
