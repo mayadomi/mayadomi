@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mayadomi" target="blank"><img align="center" src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="mayadomi" height="30" width="40" /></a>
-<a href="https://twitter.com/mayadominice" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="mayadominice" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayadominice" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="mayadominice" height="30" width="40" /></a>
 <a href="https://instagram.com/mayadomi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="mayadomi" height="30" width="40" /></a>
 </p>
