@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maya.dominice@gmail.com**
 
-- 📄 Some stuff I've done [https://www.canva.com/design/DAFqipxYW1I/view](https://www.canva.com/design/DAFqipxYW1I/view)
+- 📄 Some stuff I've done [https://www.canva.com/design/DAFqipxYW1I/view](https://www.canva.com/design/DAF0oxl5lBc/f2lnG3xgNOKpc8LezGHaBg/view)
 
 - ⚡ Fun fact **I race bicycles** (not very well, but I try 🙃) 
   
