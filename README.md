@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
 
-- 🌱 I’m currently learning **C#, Foundry, React**
+- 🌱 I’m currently learning **Laravel, React, TS (and anything that random projects set me off on)**
 
-- 👯 I’m always open to **collaboration**
+- 👯 I’m always open to **collaboration, learning and growing**
 
 - 💬 Ask me about **anything spatial 🌏**
 
@@ -10,7 +10,7 @@
 
 - 📄 Some stuff I've done [https://www.canva.com/design/DAFqipxYW1I/view](https://www.canva.com/design/DAF0oxl5lBc/f2lnG3xgNOKpc8LezGHaBg/view)
 
-- ⚡ Fun fact **I race bicycles** (not very well, but I try 🙃) 
+- ⚡ Fun fact: **I race bicycles** (not very well, but I try 🙃) 
   
 - 😊 Pronouns: she/her
 
