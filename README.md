@@ -1,48 +1,25 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
 
-- 🌱 I’m currently learning **Laravel, React, TS (and anything that a random project inspires me to learn)**
-- Courses I'm enrolled in/self-learning:
-    - [Three.JS](https://threejs-journey.com/)
-    - [Whereobots/Astronomer](https://github.com/astronomer/astronomer-wherobots-workshop)
+### 🚀 About Me
+- 🌍 **Focus:** Love **spatial systems** and building modern web applications - "everything that happens, happens somewhere"
+- 🌱 **Currently Learning:** [Three.js Journey](https://threejs-journey.com/), [AWS AI & ML (Agent Developer Track)](https://aws.amazon.com/about-aws/our-impact/scholars/), and the Wherobots/Astronomer stack.
+- 🚲 **Fun Fact:** I race bicycles. Well, I try - most of the time I'm shelled out the back 😶‍🌫️
+- 💬 **Ask me about:** Anything spatial - GIS, spatial ETL, or why your Mapbox layer isn't rendering.
 
-- 👯 I’m always open to **collaboration, learning and growing**
+---
 
-- 💬 Ask me about **anything spatial 🌏**
+### 🛠 Tech Stack
 
-- 📫 How to reach me **maya.dominice@gmail.com**
+#### **Languages & Platforms**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Palantir](https://img.shields.io/badge/Palantir_Foundry-%23101111.svg?style=for-the-badge&logo=palantir&logoColor=white)
 
-- 📄 [Some stuff I've done](https://www.canva.com/design/DAF0oxl5lBc/f2lnG3xgNOKpc8LezGHaBg/view)
+#### **Spatial Stack**
+![Esri](https://img.shields.io/badge/Esri-%23007AC2.svg?style=for-the-badge&logo=esri&logoColor=white) ![FME](https://img.shields.io/badge/Safe_Software_FME-%230067b1.svg?style=for-the-badge) ![QGIS](https://img.shields.io/badge/QGIS-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white) ![Mapbox](https://img.shields.io/badge/mapbox-%23000000.svg?style=for-the-badge&logo=mapbox&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-%23009BD9.svg?style=for-the-badge&logo=maplibre&logoColor=white)
 
-- ⚡ Fun fact: **I race bicycles** (not very well, but I try 🙃) 
-  
-- 😊 Pronouns: she/her
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mayadomi" target="blank"><img align="center" src="https://assets.codepen.io/t-1/codepen-logo.svg" alt="codepen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayadominice" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/mayadomi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.strava.com/athletes/17422394" target="blank"><img align="center" src="https://d3nn82uaxijpm6.cloudfront.net/icon-strava-chrome-192.png" alt="strava" height="30" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://www.palantir.com/platforms/foundry/" target="_blank" rel="noreferrer"> <img src="https://www.palantir.com/aws/ptlogo" alt="palantir" height="40" width="auto"/></a></p>
-
-<h3 align='left'>Spatial Stacks</h3>
-<a href="https://www.esri.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/de/4/46/ESRI_Logo.svg"alt="esri" width="100" height="35"/></a>
-<a href="https://www.safe.com/" target="_blank" > <img src="https://www.safe.com/wp-content/uploads/2023/02/fme-logo.svg"alt="fme" width="100" height="35"/></a>
-<a href="https://qgis.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="qgis" width="40" height="40"/></a>
-<a href="https://leafletjs.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/960px-Leaflet_logo.svg.png" alt="leaflet" height="40"/></a>
-<a href="https://www.mapbox.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Mapbox_logo_2017.svg" alt="react" height="40"/></a>
-
-
-
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayadominice)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mayadomi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayadomi)
+[![Strava](https://img.shields.io/badge/Strava-%23FC4C02.svg?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/17422394)
